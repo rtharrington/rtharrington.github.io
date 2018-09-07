@@ -1,0 +1,97 @@
+.bgimage {
+  background-image: url('../assets/banner2.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 350px;
+}
+
+.container-text {
+    
+    color: white;
+    text-shadow: 2px 2px black;
+    padding-top: .1em;
+    padding-left: 1em;
+    font-family: "Segoe Print"; "Arial";
+    
+}
+
+
+.subheading-work {
+    
+    font-size: 17px;
+    font-style: italic;
+    
+    
+}
+
+
+body  {
+    padding-bottom: 50px
+
+}
+
+.vbottom{
+    position: relative;
+    top: 100%;
+    transform: translateY(400%); 
+}   
+
+
+.fa-github {
+  padding: 20px;
+  font-size: 40px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: px 2px;    
+  background: black;
+  color: white;
+}
+
+.fa-twitter {
+     padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+     padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  background: #007bb5;
+  color: white;
+}
+
+.fa-envelope-o {
+     padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  background: #f65314;
+  color: white;
+}
+
+section.resume-section {
+  border-bottom: 1px solid #dee2e6;
+  padding-top: 5rem !important;
+  padding-bottom: 5rem !important; }
+  section.resume-section .resume-item .resume-date {
+    min-width: none; }
+
+.text-primary {
+  color: #BD5D38 !important;
+ font-size:13px;
+font-family: "Helvetica";
+
+}
