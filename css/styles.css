@@ -27,14 +27,14 @@
 
 
 body  {
-    padding-bottom: 50px
+    padding-bottom: 0px
 
 }
 
 .vbottom{
     position: relative;
-    top: 100%;
-    transform: translateY(400%); 
+    margin-top: 10%;
+  
 }   
 
 
@@ -95,3 +95,20 @@ section.resume-section {
 font-family: "Helvetica";
 
 }
+
+.site-main {
+  margin-bottom: 0em;
+}
+
+div.content-area {
+  margin-bottom: 0em;
+}
+
+div.page {
+  margin-bottom: 0em;
+}
+
+
+
+
+
